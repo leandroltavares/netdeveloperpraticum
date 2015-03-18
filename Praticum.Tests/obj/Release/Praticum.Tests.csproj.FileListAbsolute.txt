@@ -1,0 +1,7 @@
+C:\Projetos\Grosvenor\Praticum\Praticum\Praticum.Tests\bin\Release\Praticum.Tests.dll
+C:\Projetos\Grosvenor\Praticum\Praticum\Praticum.Tests\bin\Release\Praticum.Tests.pdb
+C:\Projetos\Grosvenor\Praticum\Praticum\Praticum.Tests\bin\Release\Praticum.exe
+C:\Projetos\Grosvenor\Praticum\Praticum\Praticum.Tests\bin\Release\Praticum.pdb
+C:\Projetos\Grosvenor\Praticum\Praticum\Praticum.Tests\obj\Release\Praticum.Tests.csprojResolveAssemblyReference.cache
+C:\Projetos\Grosvenor\Praticum\Praticum\Praticum.Tests\obj\Release\Praticum.Tests.dll
+C:\Projetos\Grosvenor\Praticum\Praticum\Praticum.Tests\obj\Release\Praticum.Tests.pdb

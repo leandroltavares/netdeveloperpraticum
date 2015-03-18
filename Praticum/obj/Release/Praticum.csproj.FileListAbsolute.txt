@@ -1,0 +1,6 @@
+C:\Projetos\Grosvenor\Praticum\Praticum\Praticum\bin\Release\Praticum.exe.config
+C:\Projetos\Grosvenor\Praticum\Praticum\Praticum\bin\Release\Praticum.exe
+C:\Projetos\Grosvenor\Praticum\Praticum\Praticum\bin\Release\Praticum.pdb
+C:\Projetos\Grosvenor\Praticum\Praticum\Praticum\obj\Release\Praticum.csprojResolveAssemblyReference.cache
+C:\Projetos\Grosvenor\Praticum\Praticum\Praticum\obj\Release\Praticum.exe
+C:\Projetos\Grosvenor\Praticum\Praticum\Praticum\obj\Release\Praticum.pdb
